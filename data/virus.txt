@@ -1,0 +1,12 @@
+**[Load libraries...                   ] / {virus}-virus.exe Packing files.**
+**[loading dependencies...               ] - {virus}-virus.exe Packing files..**
+**[Building .dll file...           ] \ {virus}-virus.exe Packing files..**
+**[Crypting .dll file...        ] | {virus}-virus.exe Packing files..**
+**[Clearing sources...       ] / {virus}-virus.exe Packing files..**
+**[connection setup...   ] - {virus}-virus.exe Packing files..**
+**[Download virus ] \ {virus}-virus.exe Packing files..**
+**Successfully downloaded {virus}-virus.exe**
+**Injecting virus.   |**
+**Injecting virus..  /**
+**Injecting virus... -**
+**Successfully Injected {virus}-virus.exe into {user}**
